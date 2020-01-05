@@ -41,7 +41,7 @@
         <div class="row-fluid">
             <div class="span12">
                 <div id="divLogo" class="pull-left">
-                    <a href="index.php" id="divSiteTitle">Rent A Snow</a><br/>
+                    <a href="index.php" id="divSiteTitle">Rent A Snowboard</a><br/>
                     <a href="index.php" id="divTagLine">La glisse à moindre coût</a>
                 </div>
                 <div id="divMenuRight" class="pull-right">
